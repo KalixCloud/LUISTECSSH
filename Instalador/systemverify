@@ -12,7 +12,7 @@ rm -rf $HOME/versao*; wget https://raw.githubusercontent.com/KalixCloud/LUISTECS
 ## Reinstalar
 echo "apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/KalixCloud/LUISTECSSH/main/Instalador/Plus; chmod 777 Plus; ./Plus" > /bin/sshplus && chmod +x /bin/sshplus > /dev/null 2>&1
 
-## Menu
+## Menu https://raw.githubusercontent.com/KalixCloud/LUISTECSSH/main/Archivos/menu
 wget -O /bin/menuV1 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Skin_Plus/menuV1/Install > /dev/null 2>&1
 chmod +x /bin/menuV1 > /dev/null 2>&1
 wget -O /bin/menuV2 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Skin_Plus/menuV2/Install > /dev/null 2>&1
