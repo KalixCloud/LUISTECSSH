@@ -117,7 +117,7 @@ echo ""
 echo -e "      \033[1;33mFUNCIONES Y DEFINICIONES FINALES \033[0m"
 echo ""
 fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
-rm -rf $HOME/systemverify* > /dev/null 2>&1; bash <(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/systemverify)
+rm -rf $HOME/systemverify* > /dev/null 2>&1; bash <(wget -qO- https://raw.githubusercontent.com/KalixCloud/LUISTECSSH/main/Instalador/systemverify)
 clear
 echo ""
 cd $HOME
